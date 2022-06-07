@@ -34,11 +34,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 
 <br />
 
-## 🎮Something I made for you to play:
-https://gage-waguespack.github.io/Jumping-Side-Scroller/Player/
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gage-waguespack&label=Profile%20views&color=0e75b6&style=flat" alt="gage-waguespack" /> </p>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gage-waguespack-460213240/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Gage-Waguespack)
+
+## 🎮Something I made for you to play:
+https://gage-waguespack.github.io/Jumping-Side-Scroller/Player/
