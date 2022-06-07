@@ -34,7 +34,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 
 <br />
 
-##🎮Something I made for you to play:
+## 🎮Something I made for you to play:
 https://gage-waguespack.github.io/Jumping-Side-Scroller/Player/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gage-waguespack&label=Profile%20views&color=0e75b6&style=flat" alt="gage-waguespack" /> </p>
