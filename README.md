@@ -5,6 +5,7 @@ I am a Game Programmer that works in C++, C#, Unity, and Unreal. I am currently 
 My single goal is to make something that can help individuals around the world escape into another reality through gaming.
 
 > "Nobody in this industry knows what they’re doing, we just have a gut assumption." - Cliff Bleszinski
+> "In marketing I've seen only one strategy that can't miss - and that is to market to your best customers first, your best prospects second and the rest of the world last." -John Romero
 
 [Resume](https://resume.creddle.io/resume/1yoi94ivr4e)
 
