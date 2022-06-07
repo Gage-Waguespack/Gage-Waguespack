@@ -22,7 +22,7 @@ My single goal is to make something that can help individuals around the world e
 ## ✉️ Find me on:
 <p align="center">
 <a href="https://www.linkedin.com/in/gage-waguespack-460213240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gage waguespack" height="30" width="40" /></a>
-<a href="mailto:gagewaguespack@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="50" style="vertical-align:top; margin:4px"></a>
+<a href="mailto:gagewaguespack@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" 
 </p>
 
 ## 🧰 Languages and Tools:
