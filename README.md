@@ -19,7 +19,7 @@ My single goal is to make something that can help individuals around the world e
 
 ## ✉️ Find me on:
 <p align="center">
-<a href="https://linkedin.com/in/gage-waguespack/460213240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gage waguespack" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gage-waguespack/460213240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gage waguespack" height="30" width="40" /></a>
 </p>
 
 ## 🧰 Languages and Tools:
