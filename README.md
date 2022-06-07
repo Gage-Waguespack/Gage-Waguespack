@@ -33,10 +33,10 @@ My single goal is to make something that can help individuals around the world e
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gage-waguespack&show_icons=true&locale=en" alt="gage-waguespack" /></p>
 
 
-<p align="center">
- <a href="https://linkedin.com/in/gage-waguespack" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:gagewaguespack@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gage-Waguespack&theme=tokyonight)
+&nbsp;
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gage-Waguespack&show_icons=true&theme=tokyonight)
+
 
 <br />
 
