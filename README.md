@@ -18,6 +18,8 @@ My single goal is to make something that can help individuals around the world e
 - ⚡ Fun fact: I go by Gage (my middle name), although my first name is Franklin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gage-Waguespack&theme=tokyonight)
+&nbsp;
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gage-Waguespack&show_icons=true&theme=tokyonight)
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gage-waguespack-460213240/)
 &nbsp;
