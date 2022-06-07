@@ -16,11 +16,8 @@ My single goal is to make something that can help individuals around the world e
 - 📫 How to reach me: gagewaguespack@gmail.com.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I go by Gage (my middle name), although my first name is Franklin
-- ## ✉️ Find me on:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gage-waguespack&label=Profile%20views&color=0e75b6&style=flat" alt="gage-waguespack" /> </p>
-
-<h3 align="left">Connect with me:</h3>
+## ✉️ Find me on:
 <p align="left">
 <a href="https://linkedin.com/in/gage waguespack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gage waguespack" height="30" width="40" /></a>
 </p>
@@ -36,6 +33,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gage-Waguespack&show_icons=true&theme=tokyonight)
 
 <br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gage-waguespack&label=Profile%20views&color=0e75b6&style=flat" alt="gage-waguespack" /> </p>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gage-waguespack-460213240/)
 &nbsp;
