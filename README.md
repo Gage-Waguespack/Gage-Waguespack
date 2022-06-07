@@ -22,7 +22,7 @@ My single goal is to make something that can help individuals around the world e
 ## ✉️ Find me on:
 <p align="center">
 <a href="https://www.linkedin.com/in/gage-waguespack-460213240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gage waguespack" height="30" width="40" /></a>
-<a href="mailto:gagewaguespack@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style="vertical-align:bottom; margin:4px"></a>
+<a href="mailto:gagewaguespack@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## 🧰 Languages and Tools:
@@ -39,9 +39,12 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gage-waguespack&label=Profile%20views&color=0e75b6&style=flat" alt="gage-waguespack" /> </p>
 
+<p align="center">
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gage-waguespack-460213240/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Gage-Waguespack)
+<a href="mailto:gagewaguespack@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
+</p>
 
 ## 🎮Something I made for you to play:
 https://gage-waguespack.github.io/Jumping-Side-Scroller/Player/
