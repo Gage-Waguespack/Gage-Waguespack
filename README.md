@@ -39,10 +39,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gage-waguespack&label=Profile%20views&color=0e75b6&style=flat" alt="gage-waguespack" /> </p>
 
-<p align="center">
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gage-waguespack-460213240/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Gage-Waguespack)
+
+<p align="center">
 <a href="mailto:gagewaguespack@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
 
