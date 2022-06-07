@@ -18,7 +18,7 @@ My single goal is to make something that can help individuals around the world e
 - ⚡ Fun fact: I go by Gage (my middle name), although my first name is Franklin
 
 ## ✉️ Find me on:
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/gage waguespack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gage waguespack" height="30" width="40" /></a>
 </p>
 
