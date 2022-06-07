@@ -43,7 +43,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Gage-Waguespack)
 
-<p align="center">
+<p align="left">
 <a href="mailto:gagewaguespack@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
 
