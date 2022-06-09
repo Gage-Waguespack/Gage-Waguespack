@@ -13,7 +13,7 @@ My single goal is to make something that can help individuals around the world e
 - 🔭 I’m currently working on a behind the scenes project in UE5.
 - 🌱 I’m currently learning how to master unreal engine.
 - 👯 I’m looking to collaborate on Proximo 2.
-- 🤔 I’m looking for help with.
+- 🤔 I’m looking for help with expanding my portfolio to even greater heights!
 - 💬 Ask me about anything!
 - 📫 How to reach me: gagewaguespack@gmail.com.
 - 😄 Pronouns: He/Him.
