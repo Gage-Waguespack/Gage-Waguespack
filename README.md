@@ -1,4 +1,6 @@
+<p align="center" font-weight: bold;>
 # Hey, my name is Gage Waguespack!
+ </p>
 
 I am a Game Programmer that works in C++, C#, Unity, and Unreal. I am currently a resident in Lafayette, Louisiana!
 
