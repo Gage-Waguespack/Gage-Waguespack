@@ -22,6 +22,12 @@ Here is a link to my [Resume](https://resume.creddle.io/resume/1yoi94ivr4e)!
 - ⚡ Fun fact: I go by Gage (my middle name), although my first name is Franklin
 
 <h1 align="center">
+🎮✔ Projects I've been apart of:
+ </h1>
+ 
+ [Stratus](https://stratusgame.itch.io/stratus)!
+
+<h1 align="center">
  ✉️ Find me on:
  </h1>
  
