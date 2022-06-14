@@ -13,7 +13,7 @@ My single goal is to make something that can help individuals around the world e
 Here is a link to my [Resume](https://resume.creddle.io/resume/1yoi94ivr4e)!
 
 - 🔭 I’m currently working on a behind the scenes project in UE5.
-- 🌱 I’m currently learning how to master unreal engine.
+- 🌱 I’m currently learning how to master Unreal Engine.
 - 👯 I’m looking to collaborate on Proximo 2.
 - 🤔 I’m looking for help with expanding my portfolio to even greater heights!
 - 💬 Ask me about anything!
