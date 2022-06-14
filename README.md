@@ -25,7 +25,7 @@ Here is a link to my [Resume](https://resume.creddle.io/resume/1yoi94ivr4e)!
 🎮✔ Projects I've been apart of:
  </h1>
  
- [Stratus](https://stratusgame.itch.io/stratus)!
+So far my only project is [Stratus](https://stratusgame.itch.io/stratus)! However, I'm looking to be apart of more projects in the future!
 
 <h1 align="center">
  ✉️ Find me on:
