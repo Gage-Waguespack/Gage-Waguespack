@@ -10,7 +10,8 @@ My single goal is to make something that can help individuals around the world e
 
 > "In marketing I've seen only one strategy that can't miss - and that is to market to your best customers first, your best prospects second and the rest of the world last." -John Romero
 
-Here is a link to my [Resume](https://resume.creddle.io/resume/1yoi94ivr4e)!
+Here is a link to download my [Resume](https://github.com/Gage-Waguespack/Gage-Waguespack/raw/main/Resume.pdf)!
+You can also view it on [Creddle](https://resume.creddle.io/resume/1yoi94ivr4e)!
 
 - 🔭 I’m currently working on a behind the scenes project in UE5.
 - 🌱 I’m currently learning how to master Unreal Engine.
@@ -33,7 +34,7 @@ So far my only project is [Stratus](https://stratusgame.itch.io/stratus)! Howeve
  
 <p align="center">
 <a href="https://www.linkedin.com/in/gage-waguespack-460213240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gage waguespack" height="30" width="40" /></a>
- <a href="mailto:gagewaguespack@gmail.com" target="blank"><img align="center" src="/Images/GmailLogo.png" alt="gage waguespack" height="50" width="50" /></a>
+ <a href="mailto:gagewaguespack@gmail.com" target="blank"><img align="center" src="/Images/GmailLogo.png" alt="gage waguespack" height="40" width="50" /></a>
 </p>
 
 <h1 align="center">
@@ -43,7 +44,7 @@ So far my only project is [Stratus](https://stratusgame.itch.io/stratus)! Howeve
 <p align="center">
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"><img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="Images/UnityLogo.png" alt="unity" width="60" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="Images/UnrealLogo.png" alt="unreal" width="60" height="40"/> </a> </p>
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="Images/UnityLogo.png" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="Images/UnrealLogo.png" alt="unreal" width="40" height="40"/> </a> </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gage-Waguespack&theme=tokyonight)
 &nbsp;
