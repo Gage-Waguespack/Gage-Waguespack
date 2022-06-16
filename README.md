@@ -10,7 +10,7 @@ My single goal is to make something that can help individuals around the world e
 
 > "In marketing I've seen only one strategy that can't miss - and that is to market to your best customers first, your best prospects second and the rest of the world last." -John Romero
 
-Here is a link to my [Resume](https://resume.creddle.io/resume/1yoi94ivr4e)!
+Here is a link to my [Resume](https://github.com/Gage-Waguespack/Gage-Waguespack/raw/main/Resume.pdf)!
 
 - 🔭 I’m currently working on a behind the scenes project in UE5.
 - 🌱 I’m currently learning how to master Unreal Engine.
