@@ -20,7 +20,7 @@ You can also view it on [Creddle](https://resume.creddle.io/resume/1yoi94ivr4e)!
 - 💬 Ask me about anything!
 - 📫 How to reach me: gagewaguespack@gmail.com.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: My goal in terms of game development is to assist in building a game based on the feedback of the community behind it!
+- ⚡ Fun fact: My goal is to assist in building a game based on the feedback of the community behind it!
 
 <h1 align="center">
 🎮✔ Projects I've been apart of:
