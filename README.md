@@ -13,14 +13,14 @@ My single goal is to make something that can help individuals around the world e
 Here is a link to download my [Resume](https://github.com/Gage-Waguespack/Gage-Waguespack/raw/main/Resume.pdf)!
 You can also view it on [Creddle](https://resume.creddle.io/resume/1yoi94ivr4e)!
 
-- 🔭 I’m currently working on a behind the scenes project in UE5.
+- 🔭 I’m currently working on a behind-the-scenes personal project in UE5.
 - 🌱 I’m currently learning how to master Unreal Engine.
-- 👯 I’m looking to collaborate on Proximo 2.
+- 👯 I’m looking to collaborate on any project.
 - 🤔 I’m looking for help with expanding my portfolio to even greater heights!
 - 💬 Ask me about anything!
 - 📫 How to reach me: gagewaguespack@gmail.com.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I go by Gage (my middle name), although my first name is Franklin
+- ⚡ Fun fact: My goal in terms of game development is to assist in building a game based on the feedback of the community behind it!
 
 <h1 align="center">
 🎮✔ Projects I've been apart of:
